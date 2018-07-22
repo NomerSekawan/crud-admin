@@ -14,10 +14,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <title>CRUD - Profil</title>
     <?php include '/../../assetCss.php';?>
 
-    <!-- DataTables CSS -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.12/css/dataTables.bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/responsive/1.0.6/css/dataTables.responsive.css" rel="stylesheet">
-
 </head>
 
 <style type="text/css">
